@@ -1,8 +1,12 @@
 #SlideScape
+
 # dynamic-image-slider
+
 #overview
 A responsive and dynamic image slider built using HTML, CSS, and JavaScript. It includes automatic sliding, manual navigation controls, and smooth transition effects. The project is designed to enhance website visuals and provide an engaging user experience.
+
 #Features
+
 Auto-slide with smooth transitions
 
 Manual navigation using next/previous buttons
@@ -12,11 +16,15 @@ Progress bar animation
 Pause and play controls
 
 Fully responsive design
+
 #Technologies used
+
 Frontend: HTML, CSS, JavaScript
 
 Version Control: Git & GitHub
+
 #Output Preview
+
 Screenshot.docx
 Above are screenshots of the slider in action (stored in the screenshots folder):
 
@@ -27,7 +35,9 @@ Active slide overlay visible
 Navigation using arrows
 
 Progress bar animation
+
 #Githup Setup
+
 Clone the repository.
 
 Open index.html in your browser.
